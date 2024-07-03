@@ -22,7 +22,7 @@ app.use("/recipes", recipesRouter);
 
 
 //MongoDB connection
-mongoose.connect("mongodb+srv://nikanemami7:bmLMty4S7rUBHCfD@cluster0.6z92jtk.mongodb.net/recipes?retryWrites=true&w=majority&appName=Cluster0")
+
 
 
 // actually calling and running server
